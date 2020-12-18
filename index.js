@@ -1,5 +1,5 @@
-function helloWorld() {
-  return "hello world!"
+let divide = function(a,b){
+  return a/b
 }
 let arr = [1,2,3]
 let newArr = arr.map(elem => elem*2)
