@@ -1,5 +1,5 @@
 let divide = function(a,b){
-  return b != 0 ? a/b : "b is onvalid"
+  return b != 0 ? a/b : "b is invalid"
 }
 let arr = [1,2,3]
 let newArr = arr.map(elem => elem*2)
